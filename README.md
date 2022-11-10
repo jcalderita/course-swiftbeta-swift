@@ -1,2 +1,2 @@
-# course-swiftbeta-swift
+# Course swift
 Course swift from SwiftBeta
