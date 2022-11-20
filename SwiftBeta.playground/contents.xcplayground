@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='01 Let and Var'/>
+        <page name='02 Optionals'/>
+        <page name='03 Collections'/>
+        <page name='04 Control Flow'/>
+        <page name='05 Functions'/>
+        <page name='06 Class and Struct'/>
+        <page name='07 Properties'/>
+        <page name='08 Methods'/>
+        <page name='09 Closures'/>
+        <page name='10 Enums'/>
+        <page name='11 Inheritance'/>
+        <page name='12 Protocols'/>
+        <page name='13 Generics'/>
+    </pages>
+</playground>
